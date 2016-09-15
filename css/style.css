@@ -1,0 +1,22 @@
+
+
+/*===================
+
+Base 
+
+==================*/
+
+* {
+	font-family: 'David Libre', serif;
+}
+
+
+.wrapper {
+	width: 80%;
+	margin: 0 auto;
+	max-width: 1024px;
+}
+
+header {
+	border-bottom: solid 5px black;
+}
