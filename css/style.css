@@ -54,3 +54,6 @@ img {
 	height: 100%;
 }
 
+figcaption {
+	display: none;
+}
