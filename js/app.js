@@ -2,16 +2,16 @@ $(document).ready(function(){
    var imageInformation;
 	// Movies 
 
-	var movies = ["http://www.omdbapi.com/?t=frozen&y=&plot=short&r=json",
-				"http://www.omdbapi.com/?t=Gladiator&y=&plot=short&r=json",
-				"http://www.omdbapi.com/?t=ride+along&y=&plot=short&r=json",
-				 "http://www.omdbapi.com/?t=Chaos+theory&y=&plot=short&r=json"];
+	var movies = ["https://www.omdbapi.com/?t=frozen&y=&plot=short&r=json",
+				"https://www.omdbapi.com/?t=Gladiator&y=&plot=short&r=json",
+				"https://www.omdbapi.com/?t=ride+along&y=&plot=short&r=json",
+				 "https://www.omdbapi.com/?t=Chaos+theory&y=&plot=short&r=json"];
 
     // Series/shows
-	var series = ["http://www.omdbapi.com/?t=house+of+cards&y=&plot=short&r=json",
-					"http://www.omdbapi.com/?t=simpsons&y=&plot=short&r=json",
-					"http://www.omdbapi.com/?t=gilmore+girls&y=&plot=short&r=json",
-					"http://www.omdbapi.com/?t=how+i+met+your&y=&plot=short&r=json"
+	var series = ["https://www.omdbapi.com/?t=house+of+cards&y=&plot=short&r=json",
+					"https://www.omdbapi.com/?t=simpsons&y=&plot=short&r=json",
+					"https://www.omdbapi.com/?t=gilmore+girls&y=&plot=short&r=json",
+					"https://www.omdbapi.com/?t=how+i+met+your&y=&plot=short&r=json"
 					];		 
 
     // Flickr images
